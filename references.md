@@ -15,4 +15,4 @@ None — the harness is a measurement tool with no decisions of its own. It was
 split out of `platform/bench` in ADR-0128.
 
 Note: `crates/bench` (the `handl-bench` criterion suite) is a **different**
-thing and stays in `platform`; it is a Cargo bench target, not this harness.
+thing and stays in `host`; it is a Cargo bench target, not this harness.
